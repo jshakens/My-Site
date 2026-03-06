@@ -5,7 +5,7 @@ export const siteConfig = {
   description:
     "IT professional focused on information security, risk management, and building secure home infrastructure with open-source tools.",
   url: "https://jshakens.net",
-  email: "jshakens@proton.me",
+  email: "info@jshakens.net",
   socials: {
     github: "https://github.com/jshakens",
     linkedin: "https://www.linkedin.com/in/jordan-shakespeare-722350176",
